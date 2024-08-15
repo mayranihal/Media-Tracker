@@ -1,0 +1,21 @@
+.format {
+	margin-right: 55%;
+	margin-left: 5%;
+}
+.pop {
+	width: 80%;
+	height: 10px;
+	text-align: left;
+	padding-left: 5%;
+	margin-left: 1%;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+.popUpFormat {
+	width: 90%;
+	height: 100%;
+	margin-bottom: 30px;
+}
+.textFormat {
+	margin: 10px;
+}

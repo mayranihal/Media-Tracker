@@ -1,0 +1,17 @@
+.MuiAvatar-root#media_dialog_icon {
+    display: inline-block;
+    margin-left: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+#media_dialog_rating {
+    position: relative;
+    margin-left: 45%;
+}
+
+#media_dialog_content {
+    margin: 20px;
+    border: 1px #aaaaaa solid;
+    border-radius: 5px;
+}

@@ -1,0 +1,36 @@
+#loginbox_container {
+	margin: auto;
+	margin-top: 100px;
+	text-align: center;
+}
+
+#loginbox {
+	display: inline-block;
+	min-width: 150px;
+	padding: 20px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.logininput {
+	margin: 10px;
+	height: fit-content;
+}
+.addSpace {
+	margin-bottom: 5px;
+}
+.headingFormat {
+	font-weight: bold;
+	margin: 10px;
+	font-size: large;
+}
+
+#loginsubmit {
+	margin-top: 10px;
+}
+.loginlogo {
+	height: 50px;
+	border-radius: 2%;
+	text-align: center;
+	margin: 10px;
+}

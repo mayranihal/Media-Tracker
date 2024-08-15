@@ -1,0 +1,10 @@
+#mediastatus {
+	width: 900px;
+	padding: 20px;
+}
+
+#media-container {
+	padding: 0px 20px;
+	border: 1px black solid;
+	min-height: 80vh;
+}

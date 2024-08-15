@@ -1,0 +1,35 @@
+#media_dialog_view {
+    color: black;
+}
+
+#media_dialog_view .MuiTypography-subtitle1 {
+    display: inline;
+    margin-left: 20px;
+    font-size: 16pt;
+}
+
+#media_dialog_view .MuiTypography-h6 {
+    display: inline;
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+#media_dialog_view_header {
+    margin-top: 10px;
+}
+
+.media_dialog_view_notes {
+    color: black;
+    word-break: break-all;
+}
+
+#media_dialog_view_text {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #dddddd;
+    border-radius: 5px;
+}
+
+#media_dialog_rating {
+    display: inline-block;
+}

@@ -1,0 +1,77 @@
+.customColor {
+	margin: 10px;
+	float: right;
+	font-weight: bold;
+}
+.editProfile {
+	margin: 10px;
+
+	position: relative;
+	float: right;
+}
+
+.profilePic {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	/*border:1px solid black;*/
+	margin: auto;
+}
+
+.cardInfo {
+	width: 300px;
+	height: 520px;
+	margin: 20px;
+	margin-bottom: 0px;
+}
+.fontFormat {
+	font-size: x-large;
+	text-align: center;
+}
+.pickButton {
+	height: 10px;
+}
+.centerUsername {
+	text-align: center;
+}
+.pick {
+	max-width: 200px;
+	max-height: 100px;
+	margin-top: 50px;
+}
+
+.discLabel {
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 280px;
+}
+.discInput {
+	width: 185px;
+	margin-left: 10px;
+}
+
+.siteInput {
+	width: 185px;
+	margin-left: 10px;
+}
+
+.siteLabel {
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 275px;
+	margin-bottom: 10px;
+}
+.formatBio {
+	margin-top: 30px;
+	width: 260px;
+	max-height: 150px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.formatLabel {
+	width: 170px;
+	max-height: 80px;
+	position: absolute;
+	margin-left: 30px;
+}

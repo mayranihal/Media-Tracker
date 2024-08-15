@@ -1,0 +1,95 @@
+.logo {
+	height: 50px;
+	border-radius: 2%;
+	margin-left: 40px;
+	margin-top: 20px;
+	position: absolute;
+}
+.spacing1 {
+	margin-right: 1%;
+}
+.button {
+	width: 10px;
+	text-align: center;
+
+	height: 30px;
+}
+.button1 {
+	width: 10px;
+	padding-left: 10%;
+	text-align: center;
+
+	height: 30px;
+}
+
+.titleAdmin {
+	margin-left: 20px;
+	position: relative;
+	float: right;
+	margin-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+.formatSearchTitle {
+	margin-right: 10px;
+	color: black;
+	font-weight: bolder;
+	font-size: large;
+}
+.bar {
+	display: inline-block;
+	max-width: 60%;
+	margin-left: 20%;
+	margin-top: 5%;
+	margin-right: 20%;
+}
+.formatSearch {
+	width: 50%;
+}
+.formatDelete {
+	position: relative;
+	margin-left: 10px;
+	float: right;
+}
+.formatunBan {
+	position: absolute;
+
+	padding-right: 10px;
+}
+.formatBan {
+	padding-left: 10px;
+
+	margin-left: 0px;
+	position: relative;
+	float: right;
+}
+.spacing {
+	margin-right: 2%;
+}
+.formatTable {
+	display: inline-block;
+	max-width: 80%;
+}
+
+.formatContainer {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.formatRow {
+	max-width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.title {
+	position: absolute;
+	margin-left: 40%;
+}
+.colorUser {
+	font-weight: bold;
+}
+.logOutButton {
+	position: relative;
+	float: right;
+	margin: 0px;
+}

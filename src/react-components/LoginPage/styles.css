@@ -1,0 +1,9 @@
+#loginpage {
+	text-align: center;
+	height: 100%;
+}
+
+.errorCommand {
+	color: red;
+	font-weight: bold;
+}
