@@ -2,7 +2,7 @@
 
 https://team17-mylist.herokuapp.com/user
 
-MyList is a website where users can keep track of the media they consume.
+Media Tracker is a website where users can keep track of the media they consume.
 
 
 ## Login credentials
@@ -143,7 +143,6 @@ Updates the \<category\> owned by the user named \<username\>.
 * Material UI core, icons, and lab
 * MongoDB, Mongoose
 * Express
-# Media-Tracker
 
 ## Authors
 Media Tracker was developed as the final semester project for the course CSC309 at the University of Toronto, Canada. The authors for Media Tracker include:
