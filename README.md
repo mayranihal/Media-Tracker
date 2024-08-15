@@ -145,7 +145,7 @@ Updates the \<category\> owned by the user named \<username\>.
 * Express
 
 ## Authors
-Media Tracker was developed as the final semester project for the course CSC309 at the University of Toronto, Canada. The authors for Media Tracker include:
+Media Tracker was developed as the final semester project for the course CSC309: Web Development at the University of Toronto, Canada. The authors for Media Tracker include:
 * Mayra Nihal
 * Erin Amer
 * Vipon Kaur
